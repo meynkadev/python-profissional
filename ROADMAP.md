@@ -4,10 +4,13 @@
 ✅ Concluído
 
 ## Módulo 2
-🔄 Em andamento
+✅ Concluído
 
 ## Módulo 3
-⬜ Não iniciado
+🔄 Em andamento
+- ✅ Aula 1 - Indentação e blocos
+- ⬜ Aula 2 - Estruturas condicionais
+- ⬜ Aula 3 - Estruturas de repetição
 
 ## Módulo 4
 ⬜ Não iniciado
