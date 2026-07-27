@@ -45,6 +45,24 @@
 
 #### Aulas
 
-- ✅ Indentação e blocos
-- ⬜ Estruturas condicionais
-- ⬜ Estruturas de repetição
+- Indentação
+- if
+- if / else
+- elif
+- if aninhado
+- if ternário
+- while
+- for
+- range()
+
+#### Produzido
+
+- 3 arquivos Python
+- 3 documentos de notas
+- 1 resumo do módulo
+
+---
+
+## Próximo
+
+⏳ Módulo 4
