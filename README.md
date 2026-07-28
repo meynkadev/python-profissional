@@ -7,7 +7,7 @@ Repositório criado para registrar minha evolução em Python.
 - ✅ Módulo 1 — Conhecendo Python
 - ✅ Módulo 2 — Operadores
 - ✅ Módulo 3 — Estruturas Condicionais e de Repetição
-- ⬜ Módulo 4
+- 🔄️ Módulo 4 — Strings e Fatiamento
 - ⬜ Módulo 5
 
 ## Conteúdo estudado
@@ -40,6 +40,4 @@ Repositório criado para registrar minha evolução em Python.
 - for
 - range()
 
-### Próximo módulo
-
-➡️ Módulo 4
+###  🔄️ Módulo 4 — Strings e Fatiamento
