@@ -2,16 +2,16 @@
 
 ## Concluídos
 
-### ✅ Módulo 1 - Conhecendo Python
+### ✅ Módulo 1 — Conhecendo Python
 
-#### Aulas
+**Aulas**
 
 - Tipos de dados
 - Variáveis e constantes
 - Conversão de tipos
 - Entrada de dados
 
-#### Produzido
+Produzido:
 
 - 4 arquivos Python
 - 4 documentos de notas
@@ -19,43 +19,34 @@
 
 ---
 
-### ✅ Módulo 2 - Operadores
+### ✅ Módulo 2 — Operadores
 
-#### Aulas
+**Aulas**
 
 - Operadores aritméticos
 - Operadores de comparação
 - Operadores de atribuição
-- Operadores de formatação
 - Operadores lógicos
 - Operadores de identidade
 - Operadores de associação
 
-#### Produzido
+Produzido:
 
 - 6 arquivos Python
-- 7 documentos de notas
+- 6 documentos de notas
 - 1 resumo do módulo
 
 ---
 
-## Em andamento
+### ✅ Módulo 3 — Estruturas Condicionais e de Repetição
 
-### ⏳ Módulo 3 - Estruturas Condicionais e de Repetição
-
-#### Aulas
+**Aulas**
 
 - Indentação
-- if
-- if / else
-- elif
-- if aninhado
-- if ternário
-- while
-- for
-- range()
+- Estruturas condicionais
+- Estruturas de repetição
 
-#### Produzido
+Produzido:
 
 - 3 arquivos Python
 - 3 documentos de notas
@@ -63,6 +54,23 @@
 
 ---
 
-## Próximo
+### ✅ Módulo 4 — Manipulando Strings
 
-⏳ Módulo 4
+**Aulas**
+
+- Métodos de String
+- Interpolação
+- Fatiamento
+- Strings de múltiplas linhas
+
+Produzido:
+
+- 4 arquivos Python
+- 4 documentos de notas
+- 1 resumo do módulo
+
+---
+
+## Em andamento
+
+⏳ Módulo 5
