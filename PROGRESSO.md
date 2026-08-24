@@ -11,7 +11,7 @@
 - Conversão de tipos
 - Entrada de dados
 
-Produzido:
+**Produzido:**
 
 - 4 arquivos Python
 - 4 documentos de notas
@@ -30,7 +30,7 @@ Produzido:
 - Operadores de identidade
 - Operadores de associação
 
-Produzido:
+**Produzido:**
 
 - 6 arquivos Python
 - 6 documentos de notas
@@ -46,7 +46,7 @@ Produzido:
 - Estruturas condicionais
 - Estruturas de repetição
 
-Produzido:
+**Produzido:**
 
 - 3 arquivos Python
 - 3 documentos de notas
@@ -63,7 +63,7 @@ Produzido:
 - Fatiamento
 - Strings de múltiplas linhas
 
-Produzido:
+**Produzido:**
 
 - 4 arquivos Python
 - 4 documentos de notas
@@ -71,6 +71,35 @@ Produzido:
 
 ---
 
+### ✅ Módulo 5 — Estruturas de Dados
+
+**Aulas**
+
+- Listas em Python
+- Métodos da classe `list`
+
+**Produzido:**
+
+- 2 arquivos Python
+- 2 documentos de notas
+- 1 resumo do módulo
+
+---
+
+### ✅ Módulo 6 — Tuplas em Python
+
+**Aulas**
+
+- Tuplas em Python
+
+**Produzido:**
+
+- 1 arquivo Python
+- 1 documento de notas
+- 1 resumo do módulo
+
+---
+
 ## Em andamento
 
-⏳ Módulo 5
+- Módulo 7
