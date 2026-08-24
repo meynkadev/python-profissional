@@ -63,9 +63,6 @@ Repositório criado para registrar minha evolução em Python.
 - Índices e índices negativos
 - Fatiamento
 - Imutabilidade
-- `len()`
 - Percorrendo tuplas
 - Desempacotamento (`unpacking`)
-- `count()`
-- `index()`
 - Diferenças entre `list` e `tuple`
