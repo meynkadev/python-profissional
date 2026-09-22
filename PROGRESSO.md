@@ -100,6 +100,18 @@
 
 ---
 
-## Em andamento
+## ✅ Módulo 7 — Conjuntos em Python
+
+**Aulas** 
 
 - Módulo 7
+
+**Produzido:**
+
+- 1 arquivo Python
+- 1 documento de notas
+- 1 resumo do módulo
+
+## ✅ Módulo 8 — Dicionários em Python
+
+- Em andamento

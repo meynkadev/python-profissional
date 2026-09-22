@@ -66,3 +66,14 @@ Repositório criado para registrar minha evolução em Python.
 - Percorrendo tuplas
 - Desempacotamento (`unpacking`)
 - Diferenças entre `list` e `tuple`
+
+### Módulo 7 — Conjuntos (Set) em Python
+
+- Criação de um set
+- Diferenças entre sets, listas e tuplas
+- Métodos utilizados em set
+- Interseção, união, diferença direcional e simétrica
+
+### Módulo 8 — Dicionários em Python
+
+- Em andamento
