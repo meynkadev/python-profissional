@@ -114,4 +114,10 @@
 
 ## ✅ Módulo 8 — Dicionários em Python
 
+- 2 arquivos Python
+- 2 documentos de notas
+- 1 resumo do módulo
+
+## ✅ Módulo 8 — Funções Python
+
 - Em andamento

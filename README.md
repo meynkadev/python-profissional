@@ -10,6 +10,11 @@ Repositório criado para registrar minha evolução em Python.
 - ✅ Módulo 4 — Manipulando Strings
 - ✅ Módulo 5 — Listas em Python
 - ✅ Módulo 6 — Tuplas em Python
+- ✅ Módulo 7 — Conjuntos (set) em Python
+- ✅ Módulo 8 — Dicionários em Python
+- (Em andamento) Módulo 9 — Funções em Python
+
+
 
 ## Conteúdo estudado
 
@@ -76,4 +81,7 @@ Repositório criado para registrar minha evolução em Python.
 
 ### Módulo 8 — Dicionários em Python
 
-- Em andamento
+- Criação e acesso
+- Métodos dict
+
+### Módulo 9 — Funções em Python
