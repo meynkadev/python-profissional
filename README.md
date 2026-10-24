@@ -12,7 +12,8 @@ Repositório criado para registrar minha evolução em Python.
 - ✅ Módulo 6 — Tuplas em Python
 - ✅ Módulo 7 — Conjuntos (set) em Python
 - ✅ Módulo 8 — Dicionários em Python
-- (Em andamento) Módulo 9 — Funções em Python
+- ✅ Módulo 9 — Funções em Python
+- Em andamento | Módulo 10 — POO
 
 
 
@@ -81,7 +82,27 @@ Repositório criado para registrar minha evolução em Python.
 
 ### Módulo 8 — Dicionários em Python
 
-- Criação e acesso
-- Métodos dict
+- Criar
+- Acessar
+- Alterar
+- Percorrer
+- compreender a relação entre **chaves** e **valores**.
+- Métodos para atualizar, consultar, copiar, criar, remover e percorrer dicionários.
+
 
 ### Módulo 9 — Funções em Python
+
+- Definição e chamada de funções;
+- Parâmetros e argumentos;
+- `return`;
+- Diferença entre `return` e `print()`;
+- Fluxo de execução;
+- `return` encerrando a função;
+- Condicionais dentro de funções;
+- Rastreamento do valor retornado;
+- Funções com diferentes tipos de retorno.
+- Argumentos Nomeados
+- `*args`e `**kwargs`
+- Parâmetros Especiais
+- Objetos de Primeira Classe
+- Escopo
